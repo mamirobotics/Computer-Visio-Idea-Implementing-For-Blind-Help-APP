@@ -1,0 +1,8 @@
+{
+  "name": "VisionAid",
+  "description": "An AI-powered visual assistant for the visually impaired, providing real-time scene descriptions in multiple languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
